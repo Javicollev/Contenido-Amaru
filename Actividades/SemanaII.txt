@@ -3,7 +3,7 @@ Actividades por semana:
 		- Preparar la información para realizar las infografías(que serán publicadas el día 14/07/2014) para las páginas de fans. 	(Javico y Marco)
 			Temas:
 				- Cosas que deberías saber antes de viajar a Puno.
-				- Las redes sociales y la ecología.
+				- La contaminación en el lago titicaca(que partidos tienen propuestas...) 
 
 		- Diseñar, implementar la base de datos y volcar información obtenida a través de los reportes y los contactos ya existentes.
 
