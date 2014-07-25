@@ -2,7 +2,7 @@ Actividades por semana:
 	Semana II 07/07/2014 - 12/07/2014 
 		- Preparar la información para realizar las infografías(que serán publicadas el día 14/07/2014) para las páginas de fans. 	(Javico y Marco)
 			Temas:
-				- Construcción del terminal aereo en chinchero.
+				- Construcción despuesl terminal aereo en chinchero.
 				- La contaminación en el lago titicaca(que partidos tienen propuestas...) 
 
 		- Diseñar, implementar la base de datos y volcar información obtenida a través de los reportes y los contactos ya existentes.
@@ -15,3 +15,4 @@ Actividades por semana:
 		12/07/2014
 			Recopilación, diseño y publicación de nuestro tip ambiental de la semana(el tip de la semana): "Como reciclar botellas". (Javico y Marco)
 
+http://www.expoknews.com/25-frases-e-imagenes-inspiradoras-a-favor-del-medio-ambiente/
